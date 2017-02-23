@@ -1,0 +1,3 @@
+C:\Users\Galaviz\Desktop\programas 5 cuatri\da\da\obj\x86\Debug\da.Form1.resources
+C:\Users\Galaviz\Desktop\programas 5 cuatri\da\da\obj\x86\Debug\da.Properties.Resources.resources
+C:\Users\Galaviz\Desktop\programas 5 cuatri\da\da\obj\x86\Debug\da.csproj.GenerateResource.Cache
